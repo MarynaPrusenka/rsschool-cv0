@@ -4,6 +4,8 @@ __My mobile number:__ *+375445479710*
 
 __Nickname in Discord:__ *MARINA#2827*
 
+__My photo:__
+
 My aim is to become a JS developer. I am responsible, plodding, hard-working. I have worked as a teacher for 10 years. 
 
 __My skills__ are basic HTML and CSS.
