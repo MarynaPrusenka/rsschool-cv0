@@ -14,7 +14,7 @@
   list-style: none;
   cursor: pointer; 
 }
-.nav-items button{
+.nav-items {
   padding: 10px;
   font-size: large;
   font-weight: 200;
